@@ -1,0 +1,38 @@
+.logoloop {
+    overflow: hidden;
+    width: 100%;
+    padding: 20px 0;
+}
+
+.logoloop__track {
+    display: flex;
+    align-items: center;
+}
+
+.logoloop__list {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    list-style: none;
+}
+
+.logoloop__item {
+    flex-shrink: 0;
+}
+
+.logoloop__node {
+    font-size: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}
