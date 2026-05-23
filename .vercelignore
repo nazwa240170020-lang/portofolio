@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ["php84", "nodejs_22"]vendor
+nixPkgs = ["php84", "nodejs_22"]
