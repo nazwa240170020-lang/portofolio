@@ -368,8 +368,15 @@ pt-28 lg:pt-24 pb-10 relative overflow-hidden">
 
 <p id="about-text"
    class="about-text typing-cursor mt-6 text-rose leading-relaxed max-w-md">
-</p>
 
+    I am a Web Developer and UI Designer who focuses on building modern,
+    interactive, and responsive websites using Laravel, React, Tailwind CSS,
+    and JavaScript. I enjoy creating aesthetic user interfaces with elegant
+    animations while maintaining performance and user experience. Besides
+    designing interfaces, I am also experienced in deploying projects using
+    platforms such as Vercel and GitHub.
+
+</p>
 
 
 <div class="flex flex-wrap items-center gap-4 mt-8">

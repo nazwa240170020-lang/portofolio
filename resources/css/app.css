@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -5,6 +9,18 @@
 body {
   position: relative;
   z-index: 0;
+}
+
+.font-aesthetic {
+    font-family: 'Cinzel', serif;
+}
+
+.font-cantik {
+    font-family: 'Great Vibes', cursive;
+}
+
+.about-text {
+    font-family: 'Poppins', sans-serif;
 }
 
 /* particles background */
